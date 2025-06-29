@@ -1,0 +1,92 @@
+#BlueJ class context
+comment0.target=MyDodo
+comment0.text=\r\n\ MyDodo\ \u2013\ compacte\ maar\ complete\ versie\ (week?1?t/m?7).\r\n\ Bevat\ alle\ basis?,\ zoek?\ en\ SurpriseEgg?functies.\r\n
+comment1.params=
+comment1.target=MyDodo()
+comment10.params=
+comment10.target=void\ walkToWorldEdge()
+comment11.params=
+comment11.target=void\ goBackToStartOfRowAndFaceBack()
+comment12.params=
+comment12.target=void\ walkToWorldEdgeClimbingOverFences()
+comment13.params=
+comment13.target=void\ pickUpGrainsAndPrintCoordinates()
+comment14.params=
+comment14.target=void\ stepOneCellBackwards()
+comment15.params=
+comment15.target=void\ noDoubleEggs()
+comment16.params=
+comment16.target=void\ goToNestAvoidFences()
+comment17.params=
+comment17.target=void\ walkAroundFencedArea()
+comment18.params=
+comment18.target=void\ faceEast()
+comment18.text=\=\=\=\ Week?3\ \u2013\ Navigatie\ en\ locatie\ \=\=\=
+comment19.params=x\ y
+comment19.target=void\ goToLocation(int,\ int)
+comment2.params=
+comment2.target=boolean\ canLayEgg()
+comment2.text=\=\=\=\ Week?1\ \u2013\ Basisacties\ \=\=\=
+comment20.params=x\ y
+comment20.target=boolean\ locationReached(int,\ int)
+comment21.params=x\ y
+comment21.target=boolean\ validCoordinates(int,\ int)
+comment22.params=
+comment22.target=int\ countEggsInRow()
+comment23.params=n
+comment23.target=void\ layTrailOfEggs(int)
+comment23.text=\=\=\=\ Week?4\ \u2013\ Patronen,\ tellen,\ gemiddelde\ \=\=\=
+comment24.params=
+comment24.target=int\ countAllEggs()
+comment25.params=
+comment25.target=int\ findRowWithMostEggs()
+comment26.params=
+comment26.target=void\ calculateAverageEggsPerRow()
+comment27.params=x
+comment27.target=int\ countEggsInCol(int)
+comment27.text=\=\=\=\ Week?5\ \u2013\ Pariteitsbit\ \=\=\=
+comment28.params=
+comment28.target=int\ getIncorrectRow()
+comment29.params=
+comment29.target=int\ getIncorrectCol()
+comment3.params=
+comment3.target=void\ turn180()
+comment30.params=
+comment30.target=void\ fixIncorrectBit()
+comment31.params=
+comment31.target=void\ fillSurpriseEggList()
+comment31.text=\=\=\=\ Week?6\ \u2013\ SurpriseEggs\ \=\=\=
+comment32.params=
+comment32.target=void\ printEggData()
+comment33.params=
+comment33.target=void\ printAverageValue()
+comment34.params=
+comment34.target=Egg\ findMostValuableEgg()
+comment35.params=
+comment35.target=void\ moveRandomly()
+comment35.text=\=\=\=\ Week?7\ \u2013\ Dodo?race\ \=\=\=
+comment36.params=
+comment36.target=void\ updateScore()
+comment37.params=
+comment37.target=void\ smartEggHunter()
+comment38.params=
+comment38.target=Egg\ getNearestEgg()
+comment39.params=a
+comment39.target=int\ distanceTo(greenfoot.Actor)
+comment4.params=
+comment4.target=void\ jump()
+comment40.params=
+comment40.target=void\ act()
+comment40.text=Actiemethode\ \u2013\ zoek\ eieren\ en\ stop\ zodra\ klaar
+comment5.params=
+comment5.target=boolean\ canMove()
+comment6.params=
+comment6.target=void\ climbOverFence()
+comment7.params=
+comment7.target=void\ walkToWorldEdgePrintingCoordinates()
+comment8.params=
+comment8.target=boolean\ grainAhead()
+comment9.params=
+comment9.target=void\ gotoEgg()
+comment9.text=\=\=\=\ Week?2\ \u2013\ Nest,\ fences,\ graan\ \=\=\=
+numComments=41
